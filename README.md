@@ -6,4 +6,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/gh0gale/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/gh0gale/LeetCode/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/gh0gale/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
