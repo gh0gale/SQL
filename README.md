@@ -82,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/gh0gale/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/gh0gale/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Database
+|  |
+| ------- |
+| [1415-students-and-examinations](https://github.com/gh0gale/LeetCode/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
