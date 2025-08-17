@@ -85,5 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/gh0gale/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [1415-students-and-examinations](https://github.com/gh0gale/LeetCode/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
