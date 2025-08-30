@@ -1,7 +1,8 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        for (int i = 0; i < static_cast<int>(nums.size()) - 1; i += 2) {
+        int n = (nums.size()) - 1;
+        for (int i = 0; i < n; i += 2) {
             if (nums[i] != nums[i + 1]) {
                 return nums[i];
             }
