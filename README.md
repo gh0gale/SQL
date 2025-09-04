@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0178-rank-scores](https://github.com/gh0gale/LeetCode/tree/master/0178-rank-scores) |
 | [0196-delete-duplicate-emails](https://github.com/gh0gale/LeetCode/tree/master/0196-delete-duplicate-emails) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/gh0gale/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1415-students-and-examinations](https://github.com/gh0gale/LeetCode/tree/master/1415-students-and-examinations) |
 | [3910-find-books-with-no-available-copies](https://github.com/gh0gale/LeetCode/tree/master/3910-find-books-with-no-available-copies) |
 ## Prefix Sum
